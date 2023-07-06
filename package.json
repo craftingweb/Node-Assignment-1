@@ -1,0 +1,23 @@
+{
+  "name": "nodeassignment1",
+  "version": "1.0.0",
+  "description": "In this assignment, you will design and build your own RESTful API using Node.js and Express. The API should handle CRUD operations (Create, Read, Update, Delete) for a specific resource. You will create a sample resource directly in the server.js file instead of using a database.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliPri/Node-Assignment-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliPri/Node-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/VitaliPri/Node-Assignment-1#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
